@@ -11,7 +11,7 @@ $params = [
 		'body' => [
 				'query' => [
 						'match' => [
-								'testField' => 'abc2'
+								'testField' => 'abc245'
 						]
 				]
 		]
